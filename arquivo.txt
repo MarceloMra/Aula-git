@@ -1,3 +1,5 @@
-escrevi a linha 1
+escrevi a linha 3
+qqwdqwdwdqwdqwdqwd
 escrever essa nova linha pra desbugar o sistema
 corrigindo agora o segundo bug no arquivo1
+teste novo
