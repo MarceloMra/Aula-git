@@ -3,3 +3,5 @@ qqwdqwdwdqwdqwdqwd
 escrever essa nova linha pra desbugar o sistema
 corrigindo agora o segundo bug no arquivo1
 teste novo
+
+linha nova
